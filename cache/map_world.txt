@@ -1,0 +1,66 @@
+1
+Washington
+38.8858161615308
+-77.06433652031251
+38.92856200366322
+-77.00940487968751
+{'lat': 38.891298, 'lon': -77.019965, 'name': u'National Gallery of Art', 'icon': 'monument'}
+{'lat': 38.897676, 'lon': -77.03653, 'name': u'The White House', 'icon': 'ruins_town'}
+{'lat': 38.891266, 'lon': -77.026065, 'name': u'Smithsonian National Museum of Natural History', 'icon': 'monument'}
+{'lat': 38.889484, 'lon': -77.035279, 'name': u'Washington Monument', 'icon': 'ruins_town'}
+{'lat': 38.922684, 'lon': -77.019438, 'name': u'Howard University', 'icon': 'monument'}
+{'lat': 38.891279, 'lon': -77.030051, 'name': u'Smithsonian National Museum of American History', 'icon': 'monument'}
+{'lat': 38.892784, 'lon': -77.023098, 'name': u'National Archives & Records Administration', 'icon': 'monument'}
+{'lat': 38.916544, 'lon': -77.044852, 'name': u'Hilton Washington', 'icon': 'settlement'}
+{'lat': 38.911767, 'lon': -77.046922, 'name': u'The Phillips Collection', 'icon': 'office'}
+{'lat': 38.896339, 'lon': -77.030517, 'name': u'The National Theatre', 'icon': 'ruins_town'}
+{'lat': 38.922576, 'lon': -77.053794, 'name': u'Omni Shoreham Hotel', 'icon': 'settlement'}
+{'lat': 38.897825, 'lon': -77.020822, 'name': u'Verizon Center', 'icon': 'encampment'}
+{'lat': 38.889443, 'lon': -77.040556, 'name': u'National WWII Memorial', 'icon': 'natural_landmark'}
+{'lat': 38.897924, 'lon': -77.017547, 'name': u'National Building Museum', 'icon': 'monument'}
+{'lat': 38.891248, 'lon': -77.047696, 'name': u'Vietnam Veterans Memorial', 'icon': 'natural_landmark'}
+{'lat': 38.89583, 'lon': -77.055647, 'name': u'The John F. Kennedy Center for the Performing Arts', 'icon': 'ruins_town'}
+{'lat': 38.896708, 'lon': -77.022485, 'name': u'Hotel Monaco Washington DC', 'icon': 'settlement'}
+{'lat': 38.89304, 'lon': -77.019285, 'name': u'Newseum', 'icon': 'monument'}
+{'lat': 38.897039, 'lon': -77.032377, 'name': u'InterContinental The Willard Washington D.C.', 'icon': 'settlement'}
+{'lat': 38.917206, 'lon': -77.028672, 'name': u"Ben's Chili Bowl", 'icon': 'settlement'}
+{'lat': 38.902085, 'lon': -77.036009, 'name': u'The St. Regis Washington, D.C.', 'icon': 'settlement'}
+{'lat': 38.908263, 'lon': -77.03604, 'name': u'Hotel Rouge', 'icon': 'settlement'}
+{'lat': 38.895214, 'lon': -77.024959, 'name': u'FBI Headquarters', 'icon': 'ruins_town'}
+{'lat': 38.917203, 'lon': -77.027674, 'name': u'U Street Music Hall', 'icon': 'cave'}
+{'lat': 38.905197, 'lon': -77.037992, 'name': u'National Geographic Store', 'icon': 'office'}
+{'lat': 38.917991, 'lon': -77.023682, 'name': u'9:30', 'icon': 'cave'}
+{'lat': 38.903129, 'lon': -77.025804, 'name': u'The Henley Park Hotel', 'icon': 'settlement'}
+{'lat': 38.904492, 'lon': -77.039231, 'name': u'The Mayflower Hotel, Autograph Collection', 'icon': 'ruins_urban'}
+{'lat': 38.904989, 'lon': -77.049361, 'name': u'The Ritz-Carlton, Washington D.C.', 'icon': 'settlement'}
+{'lat': 38.89799, 'lon': -77.023006, 'name': u'Smithsonian American Art Museum', 'icon': 'monument'}
+{'lat': 38.899272, 'lon': -77.026667, 'name': u'Grand Hyatt Washington', 'icon': 'settlement'}
+{'lat': 38.89801, 'lon': -77.03325, 'name': u'Old Ebbitt Grill', 'icon': 'ruins_urban'}
+{'lat': 38.896732, 'lon': -77.021646, 'name': u'Crime Museum', 'icon': 'monument'}
+{'lat': 38.892844, 'lon': -77.040381, 'name': u'Organization of American States', 'icon': 'ruins_town'}
+{'lat': 38.893935, 'lon': -77.040345, 'name': u'DAR-Constitution Hall', 'icon': 'monument'}
+{'lat': 38.906398, 'lon': -77.040179, 'name': u'Cathedral of St. Matthew the Apostle', 'icon': 'monument'}
+{'lat': 38.89894, 'lon': -77.044102, 'name': u'International Monetary Fund', 'icon': 'ruins_town'}
+{'lat': 38.889269, 'lon': -77.050176, 'name': u'Lincoln Memorial', 'icon': 'natural_landmark'}
+{'lat': 38.88962, 'lon': -77.022977, 'name': u'National Mall', 'icon': 'natural_landmark'}
+{'lat': 38.91079, 'lon': -77.043699, 'name': u'Kramerbooks & Afterwords Cafe', 'icon': 'ruins_urban'}
+{'lat': 38.897811, 'lon': -77.019572, 'name': u'Washington Metropolitan Area Transit Authority', 'icon': 'ruins_town'}
+{'lat': 38.899714, 'lon': -77.048599, 'name': u'The George Washington University', 'icon': 'monument'}
+{'lat': 38.898932, 'lon': -77.042488, 'name': u'The World Bank', 'icon': 'ruins_town'}
+{'lat': 38.901305, 'lon': -77.050646, 'name': u'George Washington University Hospital', 'icon': 'monument'}
+{'lat': 38.905096, 'lon': -77.031462, 'name': u'The Donovan', 'icon': 'settlement'}
+{'lat': 38.898669, 'lon': -77.024859, 'name': u'Martin Luther King Jr. Memorial Library', 'icon': 'monument'}
+{'lat': 38.909869, 'lon': -77.047399, 'name': u'Hotel Palomar DC', 'icon': 'settlement'}
+{'lat': 38.896886, 'lon': -77.023515, 'name': u'International Spy Museum', 'icon': 'monument'}
+{'lat': 38.898262, 'lon': -77.05482, 'name': u'Watergate Complex', 'icon': 'ruins_urban'}
+{'lat': 38.896564, 'lon': -77.02894, 'name': u'Warner Theatre', 'icon': 'office'}
+{'lat': 38.907438, 'lon': -77.039631, 'name': u'Topaz Hotel', 'icon': 'settlement'}
+{'lat': 38.917321, 'lon': -77.028984, 'name': u'Lincoln Theater', 'icon': 'ruins_town'}
+{'lat': 38.903775, 'lon': -77.023076, 'name': u'Walter E. Washington Convention Center', 'icon': 'ruins_town'}
+{'lat': 38.912761, 'lon': -77.047221, 'name': u'Restaurant Nora', 'icon': 'settlement'}
+{'lat': 38.914596, 'lon': -77.031562, 'name': u'Black Cat', 'icon': 'cave'}
+{'lat': 38.917067, 'lon': -77.056653, 'name': u'The Islamic Center', 'icon': 'monument'}
+{'lat': 38.893077, 'lon': -77.047747, 'name': u'National Academy of Engineering', 'icon': 'monument'}
+{'lat': 38.910105, 'lon': -77.038139, 'name': u'Komi', 'icon': 'settlement'}
+{'lat': 38.893029, 'lon': -77.018401, 'name': u'Embassy of Canada', 'icon': 'monument'}
+{'lat': 38.92203, 'lon': -77.042157, 'name': u"Madam's Organ", 'icon': 'ruins_urban'}

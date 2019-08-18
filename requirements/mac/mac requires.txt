@@ -1,0 +1,1 @@
+use homebrew to install python3 and pygame
